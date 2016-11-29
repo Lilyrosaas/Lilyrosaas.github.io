@@ -1,0 +1,193 @@
+﻿body {
+
+  /*background-color: #2E9AFE;*/
+	background-image:url(../imagem/back.jpg);
+	 background-repeat: cover;
+	 background-position: center;
+}
+
+header {
+	background-color:#009ACD;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	height: 50px;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	width: 1225;
+	/*background-image:url(../imagem/back3.jpg);
+	 background-repeat: cover;
+	 background-position: center;*/
+}
+
+.container{
+	 max-width:90%;
+     /*border-style:double;*/
+     margin:0 auto;
+
+	
+}
+
+#menu {
+	width: 122o;
+	/*word-spacing:10px;*/
+
+}
+
+#menu li {/*color:#fff;*/
+		text-decoration:none;
+		margin-left:80px; /*MUDA AQUI PRA ALTERAR A DISTANCIA EM RELAÇÃO A BORDA ESQUERDA */
+		padding-left:20px;
+		padding-right:20px;
+		display:block; }
+
+
+#menu ul {
+	
+	 padding:0px;
+	 margin:0px;
+	 float: left;
+	 width:100%;
+	 background-color: black;
+	 list-style: none;
+	 height: 30px; 
+	 padding-left: 6px;
+	 color: white;
+	 font-size: 20px;
+	 /*text-align: center;
+     word-spacing: 10px;*/	 
+}
+
+#menu ul li {  color:#fff;
+		text-decoration:none;
+		padding-left:05%;
+		display:block; }
+
+#menu ul li a {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	border-bottom: 2px solid skyblue;
+	padding: 2px 6px;
+	float: left;
+	margin-left:90px;/*MUDA AQUI PRA ALTERAR A DISTANCIA ENTRE OS BOTÕES DO MENU!*/
+	
+    /*word-spacing:10px;*/
+}
+
+#menu ul li a:hover {
+	background-color: black;
+	color: white;
+	border-bottom: 2px solid pink;
+	/*word-spacing:10px;*/
+}
+
+#menu li {word-spacing:10px;}
+
+#rodape {
+	background-color: black;
+	text-align: right;
+	width: 1220;
+}
+
+#saudacao {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+#apresentacao {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+#titulo {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+#historia {
+	color: white;
+	font-size: 20px;
+}
+
+#foto {
+	text-align: center;
+}
+
+#instrumentos img {
+	margin-left: 50px;
+	border-radius:5px;
+	
+}
+
+#instrumentos p {
+	color: white;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+#instrumentos strong {
+	color: white;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+#curiosidades {
+	color: white;
+	font-size: 20px;
+}
+
+#curiosidades img {
+	border-radius: 5px;
+}
+
+#instrumentos button {
+	margin-left: 50px;
+}
+#central {
+background-color: black;
+	text-align: right;
+	width: 1220; 
+}
+#swi {
+max-width:300%;
+     border-style:double;
+     margin:0 auto;
+     background-color:white;
+     font-size:40px;
+	text-align: center;
+}
+#soft {
+max-width:300%;
+     border-style:double;
+     margin:0 auto;
+     background-color:white;
+     font-size:40px;
+	text-align: justify;
+}
+#rote {max-width:300%;
+     border-style:double;
+     margin:0 auto;
+     background-color:white;
+     font-size:40px;
+	text-align: justify;
+}
+#inter {max-width:300%;
+     border-style:double;
+     margin:0 auto;
+     background-color:white;
+     font-size:40px;
+	text-align: justify;
+}
+#hub{ max-width:300%;
+     border-style:double;
+     margin:0 auto;
+     background-color:white;
+     font-size:40px;
+	text-align: justify;
+}
